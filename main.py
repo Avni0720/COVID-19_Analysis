@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  3 18:06:06 2020
-@author: Manish Sharma
-www.RebellionRider.com
-www.instagram.com/RebellionRider
-www.YouTube.com/RebellionRider
-"""
+
+@author: Avni Sharma 
 
 import pandas as pd
 import requests
